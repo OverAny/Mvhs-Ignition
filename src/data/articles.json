@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Walk-In Closet",
+    "dis": "Erik",
+    "category": "Project",
+    "hero": "img/Screen Shot 2017-03-05 at 3.17.47 PM.png",
+    "date": "2017",
+    "readme": "/post"
+  },
+  {
+    "title": "First Hackathon",
+    "dis": "Team",
+    "category": "Hackathon",
+    "hero": "img/Screen Shot 2017-02-26 at 8.39.20 PM.png",
+    "date": "2017",
+    "readme": "/post2"
+  },
+  {
+    "title": "Puerto Rico Hackathon",
+    "dis": "Team",
+    "category": "Hackathon",
+    "hero": "img/about-bg.jpg",
+    "date": "2017",
+    "readme": "/post3"
+  },
+  {
+    "title": "HSHacks",
+    "dis": "Team",
+    "category": "Hackathon",
+    "hero": "img/hshacks.jpg",
+    "date": "2017",
+    "readme": "/post4"
+  },
+  {
+    "title": "EZGoals",
+    "dis": "Team",
+    "category": "Dev Week",
+    "hero": "img/slack_for_ios_upload_1024.jpg",
+    "date": "2018",
+    "readme": "/post5"
+  }
+  ,
+  {
+    "title": "AngelHack",
+    "dis": "Team",
+    "category": "Hackathon",
+    "hero": "img/arrival.jpg",
+    "date": "2017",
+    "readme": "/post6"
+  }
+  ,
+  {
+    "title": "CoderDojo",
+    "dis": "Team",
+    "category": "CoderDojo",
+    "hero": "img/coderdojo.jpg",
+    "date": "2017",
+    "readme": "/post7"
+  },
+  {
+    "title": "Our First Cybersecurity Competition is in the Books!",
+    "dis": "Team",
+    "category": "picoCTF",
+    "hero": "img/picoctf_og.png",
+    "date": "2018",
+    "readme": "/post8"
+  }
+]
